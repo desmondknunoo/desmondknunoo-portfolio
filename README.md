@@ -1,4 +1,4 @@
-Desmond's Portfolio (HTML, CSS & JavaScript)
+(NB: Under construction) Desmond's Portfolio (HTML, CSS & JavaScript)
 =======
 
 My personal portfolio based on a beautiful minimal and accessible portfolio template by [Nisar Hassan Naqvi](https://github.com/nisarhassan12).
